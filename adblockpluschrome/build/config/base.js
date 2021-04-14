@@ -101,7 +101,6 @@ export default {
           "*.js",
           "*.html",
           "adblockpluschrome/adblockpluscore/lib/content/snippets.js",
-          "adblockpluschrome/options.*",
           "adblockpluschrome/devtools.*",
           "adblockpluschrome/polyfill.js",
           "!polyfill.js",
